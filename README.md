@@ -1,4 +1,3 @@
-# material-master-delta-pipeline
 # Material Master Data Delta Pipeline
 
 **Owner:** chonkar.a@northeastern.edu  
